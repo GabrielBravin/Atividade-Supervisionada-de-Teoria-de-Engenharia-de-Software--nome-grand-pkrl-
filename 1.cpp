@@ -3,8 +3,11 @@
 #include <stdlib.h>
 #include <locale.h>
 
+<<<<<<< HEAD
 	integrantes: Guilherme, Hullick, Biel
 
+=======
+>>>>>>> parent of 089ea66... Integrantes 1
 float potencia (int base, int expoente){
     int resultado = 1;
     
