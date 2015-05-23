@@ -5,7 +5,7 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-	integrantes: Guilherme, Hullick
+	integrantes: Guilherme, Hullick, Gabriel
 =======
 	integrantes: Homem de ferro
 >>>>>>> teste
