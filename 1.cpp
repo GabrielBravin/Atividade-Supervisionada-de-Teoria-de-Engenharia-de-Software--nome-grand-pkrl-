@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <locale.h>
 
-	integrantes: Guilherme, Hullick
+	integrantes: Guilherme, Hullick, Biel
 
 float potencia (int base, int expoente){
     int resultado = 1;
