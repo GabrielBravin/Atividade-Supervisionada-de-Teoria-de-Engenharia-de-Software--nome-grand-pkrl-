@@ -4,7 +4,7 @@
 #include <locale.h>
 
 <<<<<<< HEAD
-	integrantes: Guilherme, Hullick, Biel
+	integrantes: Guilherme, Hullick
 
 =======
 >>>>>>> parent of 089ea66... Integrantes 1
