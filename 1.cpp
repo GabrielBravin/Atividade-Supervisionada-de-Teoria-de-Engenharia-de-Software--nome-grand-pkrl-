@@ -4,7 +4,7 @@
 #include <locale.h>
 
 <<<<<<< HEAD
-	integrantes: Homem de ferro
+	integrantes: Homem de ferro, Spiderman
 
 =======
 >>>>>>> parent of 089ea66... Integrantes 1
